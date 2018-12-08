@@ -1,4 +1,4 @@
-#【步驟一】安裝「emmet」外掛教學
+# 【步驟一】安裝「emmet」外掛教學
 開啟Sublime Text 之後，先利用快速鍵 :「 Ctrl + Shift + P 」(如果是 Mac 電腦請將 Ctrl 改為 Command 即可) 叫出「 Command Palette 」面板，
 
 接著輸入「 ins 」 關鍵字做搜尋，會出現選項之中有一個「 Package Control : Install Package 」 ，點選它就沒錯囉！
@@ -12,7 +12,7 @@
 安裝完成之後，會出現如下方圖示的訊息視窗，直接按右上角關閉即可。
 
 
-#【步驟二】安裝支援中文的外掛 – 「 Convert To UTF8 」教學
+# 【步驟二】安裝支援中文的外掛 – 「 Convert To UTF8 」教學
 由於 Sublime Text 預設並沒有支援中文，所以我們接下來要裝的是這個外掛 :「 Convert To UTF8 」。
 
 安裝步驟除了外掛名稱不同以外，其他過程與[步驟一]幾乎是一模一樣，需重新叫出「 Command Palette 」指令面板，此時會發現不用自己輸入就已經自動跳出「ins」選項(真是方便!)；再來也是只要輸入關鍵字，搜尋後就可找到並進行安裝囉 。
